@@ -1,0 +1,27 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "private": true,
+  "description": "> TODO: description",
+  "author": "kkomaz <Alex Lee>",
+  "homepage": "https://github.com/kkomaz/lerna-monorepo-basic#readme",
+  "license": "ISC",
+  "main": "lib/common.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkomaz/lerna-monorepo-basic.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/kkomaz/lerna-monorepo-basic/issues"
+  }
+}
